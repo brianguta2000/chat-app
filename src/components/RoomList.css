@@ -1,0 +1,37 @@
+.room-list {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(151, 200, 235);
+  height: 100%;
+}
+.list-group-item {
+  background-color: rgba(151, 200, 235);
+  border: none;
+}
+
+.ion-md-trash {
+  padding: 11px;
+}
+
+  .ion-md-trash:hover {
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+  }
+
+.ion-md-create {
+  padding: 11px;
+}
+  .ion-md-create:hover {
+    background-color: green;
+    color: #fff;
+    cursor: pointer;
+  }
+
+.mdl-layout-title.top {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
